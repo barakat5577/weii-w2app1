@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+
+body {
+	background-color: #111;
+}
+
+.vidCont {
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+}
+
+h1 {
+	color: #fff;
+}
